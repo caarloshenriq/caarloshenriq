@@ -4,7 +4,7 @@ Olá, Eu sou o Carlos Henrique!!!
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando Node.js e React JS
 - 📫 Contate-me no email: rickhenriquetab@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="c">
