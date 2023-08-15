@@ -4,7 +4,6 @@ Olá, Eu sou o Carlos Henrique!!!
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando Java
 - 📫 Contate-me no email: rickhenriquetab@gmail.com
-- 😄 Pronomes: ele/dele
 
 
 
