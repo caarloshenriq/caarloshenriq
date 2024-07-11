@@ -1,6 +1,6 @@
 # Olá! Eu sou Carlos Henrique!!!
 
-- 🔭 Atualmente trabalho com fullstack
+- 🔭 Atualmente trabalho como fullstack
 - 🌱 Estudando Java
 - 📫 Contate-me no email: [rickhenriquetab@gmail.com](mailto:rickhenriquetab@gmail.com)
 
