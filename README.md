@@ -1,24 +1,72 @@
 
-<!--
-## GitHub Stats
 
-<div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caarloshenriq&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caarloshenriq&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7931A&height=120&section=header&text=&fontSize=0" />
+
+# Carlos Santos
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=500&lines=Rust+Developer;Bitcoin+%26+Payjoin+Contributor;Open+Source+Advocate;Systems+Programmer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/caarloshenriq">
+    <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  </a>
+  <a href="https://github.com/caarloshenriq">
+    <img src="https://img.shields.io/badge/Open_Source-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
+
 </div>
 
--->
- 
 ## About me
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Carlos Santos and I am a FullStack Developer and Graduate in Systems analysis and development. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Engineer.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is PHP with Laravel and Rust.<br />
-<!--
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
--->
-## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=php,laravel,golang,ts,nodejs,nextjs,tailwind,docker,java,spring,postgres,rust,vim&theme=dark" />
+- 🦀 **Rust developer** focused on systems programming and performance
+- ⚡ Open source contributor to **Bitcoin**, specifically the [**Payjoin**](https://payjoin.org) protocol
+- 🔐 Passionate about **privacy**, **financial sovereignty**, and **decentralized systems**
+- 🎓 Graduate in **Systems Analysis and Development**
+- 🌱 Currently deepening expertise in **Bitcoin protocol development**
+
+---
+
+## 🔧 Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,typescript,nodejs,docker,linux,nix,vim,git&theme=dark" />
+
+</div>
+
+---
+
+## ₿ Bitcoin & Open Source
+
+```
+⚡ Protocol  →  Payjoin (BIP-78 / BIP-77)
+🔒 Focus     →  Privacy-preserving Bitcoin transactions
+🛠️ Language  →  Rust
+🌐 Scope     →  Protocol implementation & tooling
+```
+
+> *"Payjoin is a Bitcoin transaction method that improves privacy by having both the sender and receiver contribute inputs — making chain analysis significantly harder."*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caarloshenriq&theme=dark&background=0d1117&ring=F7931A&fire=F7931A&currStreakLabel=F7931A&border=F7931A30&border_radius=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7931A&height=80&section=footer" />
+
+</div>
