@@ -53,7 +53,6 @@
 
 > *"Payjoin is a Bitcoin transaction method that improves privacy by having both the sender and receiver contribute inputs — making chain analysis significantly harder."*
 
---->
 
 ## 📊 GitHub Stats
 
@@ -63,11 +62,11 @@
 
 </div>
 
-
-<!--
 ---
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7931A&height=80&section=footer" />
 
 </div>
+
+--->
